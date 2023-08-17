@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: client.Client
+Class-Path: javax.el-3.0.1-b10.jar xstream-1.4.19.jar hibernate-validato
+ r-6.0.10.Final.jar xmlpull-1.1.3.1.jar xstream-1.4.20.jar mxparser-1.2.
+ 2.jar xmlpull-1.1.3.1.jar logback-classic-1.2.3.jar logback-core-1.2.3.
+ jar classmate-1.3.4.jar xstream-1.4.20.jar validation-api-2.0.1.Final.j
+ ar slf4j-api-1.7.25.jar jboss-logging-3.3.2.Final.jar mxparser-1.2.2.ja
+ r aspectjrt-1.9.19.jar
+

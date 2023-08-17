@@ -1,0 +1,8 @@
+24/05/2023 13:13:29.013 [main] INFO  server.util_server.ServerStarter - File Z:\IDEjava\Lab6\LabWork_data.xml was loaded!
+24/05/2023 13:13:30.032 [main] INFO  server.util_server.ServerStarter - Server is running now!
+24/05/2023 13:13:38.623 [main] INFO  server.util_server.ServerStarter - Request was accepted!
+24/05/2023 13:13:38.625 [main] INFO  server.util_server.ServerStarter - Client command "help" was executed!
+24/05/2023 13:13:38.628 [main] INFO  server.util_server.ServerStarter - Response to client was send!
+24/05/2023 13:13:44.015 [main] INFO  server.util_server.ServerStarter - Request was accepted!
+24/05/2023 13:13:44.018 [main] INFO  server.util_server.ServerStarter - Client command "print_field_descending_discipline" was executed!
+24/05/2023 13:13:44.023 [main] INFO  server.util_server.ServerStarter - Response to client was send!
