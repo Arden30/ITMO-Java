@@ -1,0 +1,4 @@
+08/07/2023 17:11:52.407 [main] INFO  server.util_server.ServerStarter - Server is running now!
+08/07/2023 17:12:05.951 [pool-2-thread-1] INFO  server.util_server.RequestThread - User denis was authorised!
+08/07/2023 17:12:08.330 [pool-2-thread-1] INFO  server.util_server.RequestThread - Client command "show" was executed by denis
+08/07/2023 17:12:15.798 [Thread-1] INFO  server.util_server.RequestThread - Server was stopped!
