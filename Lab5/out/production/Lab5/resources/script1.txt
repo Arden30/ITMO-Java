@@ -1,0 +1,13 @@
+add
+name
+2
+1
+2
+1
+1
+easy
+name2
+1
+2
+info
+execute_script script2.txt
