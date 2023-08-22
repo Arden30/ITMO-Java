@@ -68,6 +68,8 @@ public class Lab4 {
         //создание экзмепляра вложенного класса и использование его метода
         Human.Feelings surprised = znayky.new Feelings("удивило, что он снова твердо держится на ногах.");
         surprised.Feel();
+
+        //доп задание (рефлексия): получить доступ к private переменной без get/set методов
         String name = null;
         int number = 0;
         try {
