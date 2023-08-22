@@ -29,9 +29,11 @@ public class Lab4 {
                         + ", который показывал направление ветра. " + "Это задержало полет. ");
             }
         };
+//        Вариант реализации через лямбда-выражения
 //        Catchable ctch = (Thingsable thing) -> System.out.println("Пролетая над " + Places.WORKSHOP.getPlace() + ", он ухватился рукой за" + thing
 //                + ", который показывал направление ветра. " + "Это задержало полет. ");
 //        ctch.beingCatched(fluger);
+        
         CatchObj.beingCatched(fluger);
 
         znayka.OpenDoor();
